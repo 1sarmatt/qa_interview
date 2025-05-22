@@ -23,3 +23,5 @@ locust -f load_tests/locustfile.py --host=http://example.com
 
 ## Unit тестирование
 ![Project Screenshot](./unittest.png)
+
+![Project Screenshot](./QA_Project_TaskTracker.pdf)
