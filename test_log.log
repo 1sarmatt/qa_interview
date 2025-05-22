@@ -1,0 +1,98 @@
+2025-05-22 10:30:19,132 [INFO] Login response: 403 - <HTML><HEAD>
+<TITLE>Access Denied</TITLE>
+</HEAD><BODY>
+<H1>Access Denied</H1>
+ 
+You don't have permission to access "http&#58;&#47;&#47;example&#46;com&#47;api&#47;login" on this server.<P>
+Reference&#32;&#35;18&#46;c6380760&#46;1747899019&#46;bdf9b9c
+<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;c6380760&#46;1747899019&#46;bdf9b9c</P>
+</BODY>
+</HTML>
+
+2025-05-22 10:30:19,560 [INFO] Login response: 403 - <HTML><HEAD>
+<TITLE>Access Denied</TITLE>
+</HEAD><BODY>
+<H1>Access Denied</H1>
+ 
+You don't have permission to access "http&#58;&#47;&#47;example&#46;com&#47;api&#47;login" on this server.<P>
+Reference&#32;&#35;18&#46;c6380760&#46;1747899019&#46;bdfb1f8
+<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;c6380760&#46;1747899019&#46;bdfb1f8</P>
+</BODY>
+</HTML>
+
+2025-05-22 10:30:20,007 [INFO] Login response: 403 - <HTML><HEAD>
+<TITLE>Access Denied</TITLE>
+</HEAD><BODY>
+<H1>Access Denied</H1>
+ 
+You don't have permission to access "http&#58;&#47;&#47;example&#46;com&#47;api&#47;login" on this server.<P>
+Reference&#32;&#35;18&#46;c6380760&#46;1747899019&#46;bdfca70
+<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;c6380760&#46;1747899019&#46;bdfca70</P>
+</BODY>
+</HTML>
+
+2025-05-22 10:37:02,440 [INFO] Login response: 403 - <HTML><HEAD>
+<TITLE>Access Denied</TITLE>
+</HEAD><BODY>
+<H1>Access Denied</H1>
+ 
+You don't have permission to access "http&#58;&#47;&#47;example&#46;com&#47;api&#47;login" on this server.<P>
+Reference&#32;&#35;18&#46;c6380760&#46;1747899422&#46;c3597d7
+<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;c6380760&#46;1747899422&#46;c3597d7</P>
+</BODY>
+</HTML>
+
+2025-05-22 10:37:02,952 [INFO] Login response: 403 - <HTML><HEAD>
+<TITLE>Access Denied</TITLE>
+</HEAD><BODY>
+<H1>Access Denied</H1>
+ 
+You don't have permission to access "http&#58;&#47;&#47;example&#46;com&#47;api&#47;login" on this server.<P>
+Reference&#32;&#35;18&#46;c6380760&#46;1747899422&#46;c35b1ef
+<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;c6380760&#46;1747899422&#46;c35b1ef</P>
+</BODY>
+</HTML>
+
+2025-05-22 10:37:03,379 [INFO] Login response: 403 - <HTML><HEAD>
+<TITLE>Access Denied</TITLE>
+</HEAD><BODY>
+<H1>Access Denied</H1>
+ 
+You don't have permission to access "http&#58;&#47;&#47;example&#46;com&#47;api&#47;login" on this server.<P>
+Reference&#32;&#35;18&#46;c6380760&#46;1747899423&#46;c35ccff
+<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;c6380760&#46;1747899423&#46;c35ccff</P>
+</BODY>
+</HTML>
+
+2025-05-22 13:54:46,204 [INFO] Login response: 200 - {
+  "token": "testtoken"
+}
+
+2025-05-22 13:54:46,205 [INFO] Create task response: 201 - {
+  "description": "Test Description",
+  "id": 1,
+  "status": "To Do",
+  "title": "Test Task"
+}
+
+2025-05-22 13:54:46,206 [INFO] Login response: 200 - {
+  "token": "testtoken"
+}
+
+2025-05-22 13:54:46,207 [WARNING] Invalid task creation: 400 - {
+  "message": "Title is required"
+}
+
+2025-05-22 13:54:46,208 [INFO] Login response: 200 - {
+  "token": "testtoken"
+}
+
+2025-05-22 13:54:46,208 [INFO] Search task response: 200 - [
+  {
+    "description": "Test Description",
+    "id": 1,
+    "status": "To Do",
+    "title": "Test Task"
+  }
+]
+
