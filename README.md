@@ -18,3 +18,4 @@ python3 -m unittest tests/test_api.py
 locust -f load_tests/locustfile.py --host=http://example.com
 ```
 
+![Project Screenshot](./locust.png)
