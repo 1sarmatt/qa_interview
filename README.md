@@ -42,6 +42,9 @@ mvn clean test
 ```bash
 allure serve target/allure-results
 ```
+<img width="1352" height="759" alt="Снимок экрана 2025-07-21 в 12 12 11" src="https://github.com/user-attachments/assets/ed6edba5-c4a8-4541-a656-c5b527da7ebc" />
+<img width="1352" height="878" alt="Снимок экрана 2025-07-21 в 12 12 59" src="https://github.com/user-attachments/assets/1eb5a48b-ed81-4c7d-b8bd-c0bcb1cdd3fa" />
 
+<img width="1352" height="878" alt="Снимок экрана 2025-07-21 в 12 13 11" src="https://github.com/user-attachments/assets/fe4fe45d-47f1-40fe-80a7-1bb4aa1c0c19" />
 
 
