@@ -43,8 +43,7 @@ mvn clean test
 allure serve target/allure-results
 ```
 <img width="1352" height="759" alt="Снимок экрана 2025-07-21 в 12 12 11" src="https://github.com/user-attachments/assets/ed6edba5-c4a8-4541-a656-c5b527da7ebc" />
-<img width="1352" height="878" alt="Снимок экрана 2025-07-21 в 12 12 59" src="https://github.com/user-attachments/assets/1eb5a48b-ed81-4c7d-b8bd-c0bcb1cdd3fa" />
-
-<img width="1352" height="878" alt="Снимок экрана 2025-07-21 в 12 13 11" src="https://github.com/user-attachments/assets/fe4fe45d-47f1-40fe-80a7-1bb4aa1c0c19" />
+<img width="1352" height="762" alt="Снимок экрана 2025-07-21 в 12 12 59" src="https://github.com/user-attachments/assets/59eeff45-05dc-44f8-93a7-3d3a69925daf" />
+<img width="1352" height="760" alt="Снимок экрана 2025-07-21 в 12 13 11" src="https://github.com/user-attachments/assets/3312021e-9983-4ca3-9c50-9382bc981a3c" />
 
 
