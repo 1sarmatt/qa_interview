@@ -1,1 +1,47 @@
+#  QA OOP Allure Project
+
+Пример автотестов на Java с демонстрацией принципов ООП, использованием JUnit 5 и генерацией Allure отчётов.
+
+---
+
+##  Структура проекта
+
+- `BasePage.java` – абстрактный базовый класс страницы (инкапсуляция, абстракция)
+- `LoginPage.java`, `MainPage.java` – реализации страниц (наследование, полиморфизм)
+- `PageTest.java` – JUnit тесты, покрывающие поведение
+
+---
+
+##  Используемые технологии
+
+| Компонент | Версия |
+|-----------|--------|
+| Java      | 17     |
+| Maven     | 3.8+   |
+| JUnit     | 5.10.0 |
+| Allure    | 2.24.0 |
+| SLF4J     | 1.7.36 |
+
+---
+
+##  Как запустить
+
+### 1. Клонировать проект
+
+```bash
+git clone https://github.com/your-username/qa-oop-allure.git
+cd qa-oop-allure
+```
+
+### 2. Запустить тесты
+```bash
+mvn clean test
+```
+
+### 3. Открыть отчет 
+```bash
+allure serve target/allure-results
+```
+
+
 
