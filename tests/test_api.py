@@ -2,9 +2,8 @@ import unittest
 import requests
 import logging
 
-BASE_URL = "http://127.0.0.1:5000/api"  # Замените на актуальный URL
+BASE_URL = "http://127.0.0.1:5000/api"  
 
-# Настройка логирования
 logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s [%(levelname)s] %(message)s',
